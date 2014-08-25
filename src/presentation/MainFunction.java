@@ -3,7 +3,18 @@ import domain.Controller;
 
 public class MainFunction {
     public static void main(String[] args) {
-        Controller c = new Controller();
+        
+        String meh = null;
+        
+        if(meh == null){
+            System.out.println("True");
+        }
+        
+        
+        
+        
+        
+        
         
     }
     
